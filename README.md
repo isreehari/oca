@@ -10,4 +10,4 @@ Oracle Certified Associate
   * Exceptions
   
 # Guide
-  * The example folder structure will be like chap1/exam1/src/NameClass.java
+  * The example folder structure will be like chap1/example1/src/NameClass.java
